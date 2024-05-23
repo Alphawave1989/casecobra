@@ -50,31 +50,31 @@ export default function Home() {
                   <img
                     className="inline-block h-10 w-10 rounded-full ring-2 ring-slate-100"
                     src="/users/user-1.png"
-                    alt="user image"
+                    alt="Profile picture of user 1"
                   />
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img
                     className="inline-block h-10 w-10 rounded-full ring-2 ring-slate-100"
                     src="/users/user-2.png"
-                    alt="user image"
+                    alt="Profile picture of user 2"
                   />
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img
                     className="inline-block h-10 w-10 rounded-full ring-2 ring-slate-100"
                     src="/users/user-3.png"
-                    alt="user image"
+                    alt="Profile picture of user 3"
                   />
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img
                     className="inline-block h-10 w-10 rounded-full ring-2 ring-slate-100"
                     src="/users/user-4.jpg"
-                    alt="user image"
+                    alt="Profile picture of user 4"
                   />
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img
                     className="inline-block object-cover h-10 w-10 rounded-full ring-2 ring-slate-100"
                     src="/users/user-5.jpg"
-                    alt="user image"
+                    alt="Profile picture of user 5"
                   />
                 </div>
                 <div className="flex flex-col justify-between items-center sm:items-start">
@@ -87,7 +87,7 @@ export default function Home() {
                   </div>
 
                   <p>
-                    <span className="font-semibold">1.250</span> happy customers
+                    <span className="font-semibold">1,250</span> happy customers
                   </p>
                 </div>
               </div>
